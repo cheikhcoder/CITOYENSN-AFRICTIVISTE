@@ -17,9 +17,6 @@ distro==1.9.0
 docarray==0.40.0
 dotenv==0.0.5
 frozenlist==1.4.1
-hnswlib==0.8.0
-httpcore==1.0.5
-httpx==0.27.0
 langchain==0.1.16
 langchain-community==0.0.34
 langchain-core==0.1.45
@@ -27,7 +24,6 @@ langchain-text-splitters==0.0.1
 langsmith==0.1.49
 markdown-it-py==3.0.0
 MarkupSafe==2.1.5
-mdurl==0.1.2
 multidict==6.0.5
 numpy==1.26.4
 openai==1.23.2
